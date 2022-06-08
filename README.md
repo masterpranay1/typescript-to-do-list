@@ -1,24 +1,23 @@
-# New Project
+<h1 align="center"> To-Do List Typescript </h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58875281/172549447-fb3e5176-d569-4d99-96a1-ccb39439bbc1.svg">
+</p>
+This is a simple to-do list mainly focus on learning typscript. 
+Tutorial Link : [Web Dev Simplified](https://youtu.be/jBmrduvKl5w)
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+## Built With
+- HTML5
+- Snowpack
+- Typescript
 
-## Available Scripts
+## Special 
+I had taken notes from the whole video. So feel free to check it out!!
 
-### npm start
+[Notes Link : Notion](https://silken-pisces-985.notion.site/To-Do-List-Typescript-fdf2d80355fb4121b98f61429621de38)
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+## Screenshot
+![image](https://user-images.githubusercontent.com/58875281/172550484-8f15a45c-3292-4302-ac81-7c65b284d687.png)
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm run build
-
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+## Author
+Loved this project. Let's connect 🤝
+- [Linkedin](https://linkedin.com/in/masterpranay)
